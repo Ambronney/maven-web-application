@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.84.134.89:8081/repository/tesla-uat-releases/</url>
+	      <url>http://100.26.100.97:8081/repository/tesla-prod-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.84.134.89:8081/repository/tesla-uat-snapshots/</url>
+	      <url>http://100.26.100.97:8081/repository/tesla-prod-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
